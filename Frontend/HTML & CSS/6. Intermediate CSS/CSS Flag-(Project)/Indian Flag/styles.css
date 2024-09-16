@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.flag{
+    height:450px;
+    width:600px;
+    position:relative;
+    top:200px;
+    left:450px;
+}
+
+div.b1{
+    background-color: #FF671F;
+    height:150px;
+    width:600px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+
+}
+.b2{
+    background-color: white;
+    height:150px;
+    width:600px;
+}
+img{
+    height:120px;
+    width:120px;
+    position:absolute;
+    top:165px;
+    left:240px;
+}
+.b3{
+    background-color: #046A38;
+    height:150px;
+    width:600px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

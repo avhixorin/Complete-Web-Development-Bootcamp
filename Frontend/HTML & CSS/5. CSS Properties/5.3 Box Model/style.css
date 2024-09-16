@@ -1,0 +1,26 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+#a{
+    background-color: cadetblue;
+    padding: 20px;
+    border: 10px solid black;
+}
+#b{
+    background-color: gold;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    margin-left: 259px;
+}
+#c{
+    background-color: indianred;
+    border: 10px solid black;
+    margin-left: 40px;
+}
+p{
+    margin: 0%;
+}
